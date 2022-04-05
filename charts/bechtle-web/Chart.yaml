@@ -1,0 +1,4 @@
+apiVersion: v2
+name: bechtle-web
+version: 1.0.0 
+
