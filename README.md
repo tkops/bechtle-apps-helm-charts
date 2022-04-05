@@ -1,0 +1,1 @@
+# bechtle-apps-helm-charts
